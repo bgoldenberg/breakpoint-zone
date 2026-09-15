@@ -2,7 +2,7 @@
 
 > Live ATP & WTA tennis scores with tournament intelligence.
 
-**Live:** [breakpointzone.app](https://breakpointzone.app)
+**Live:** [breakpoint.zone](https://breakpoint.zone)
 
 ---
 
