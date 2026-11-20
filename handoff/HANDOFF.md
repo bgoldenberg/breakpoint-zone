@@ -1,3 +1,5 @@
+> **Superseded.** This was written before the correct repo (`bgoldenberg/Breakpoint-zone-app`) was attached. The accurate, complete version is the patch `breakpoint-zone-app-handoff-2026-11-20.patch` in this folder: in the app repo run `git am /path/to/breakpoint-zone-app-handoff-2026-11-20.patch` (adds a 2026-11-20 entry to `docs/HANDOFF.md` plus `docs/handoff-2026-11-20/`). Key corrections: the stall was the live-match gate in `api/match-highlights/sync.ts`, not a dead job, and the refresh pass re-matches old videos against only yesterday+today fixtures, which will overwrite the relink at the next live tick.
+
 # Handoff: Nitto ATP Finals 2026 highlights (written Nov 20, 2026, ~02:30 UTC)
 
 ## Goal
